@@ -1,0 +1,6 @@
+# Ignore local database connection settings
+guvi/db_config.py
+
+# Ignore local Python environment files
+__pycache__/
+*.pyc
