@@ -46,7 +46,9 @@ The collected data is then structured, stored, and visualized through an interac
 * Enabled filtering and dynamic exploration of movie data
 
 ---
-
+## 📊 Dashboard Preview
+![Dashboard](imdb1.png)
+![Dashboard](imdb2.png)
 
 
 ## 📊 Key Business Use Cases
